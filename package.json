@@ -1,0 +1,12 @@
+{
+  "name": "node.js_dec25",
+  "version": "1.0.0",
+  "description": "Node Practice (Traversy Media)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mariel Metalios",
+  "license": "MIT"
+}
