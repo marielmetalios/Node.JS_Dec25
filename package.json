@@ -8,5 +8,8 @@
     "start": "node.server.js"
   },
   "author": "Mariel Metalios",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }

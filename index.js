@@ -1,3 +1,6 @@
+// you can install packages from the website npmjs.com or just type in CL below
+// to install nodemon, write npm i -D nodemon
+
 // /*/
 // express used in real life uses the HTTP modules
 // Javascript basics:
